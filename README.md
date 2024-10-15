@@ -75,16 +75,16 @@ Canada.
 * The JSON files are stored in the database for easy retrieval of data
 
   # Importing Libraries
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-from datetime import datetime
-import numpy as np 
-import mysql.connector
-import sqlite3
-import folium
-from geopy.geocoders import Nominatim
-from matplotlib.colors import LinearSegmentedColormap
-from IPython.display import display
-import warnings
-warnings.filterwarnings('ignore')
+* import pandas as pd
+* import matplotlib.pyplot as plt
+* import seaborn as sns
+* from datetime import datetime
+* import numpy as np 
+* import mysql.connector
+* import sqlite3
+* import folium
+* from geopy.geocoders import Nominatim
+* from matplotlib.colors import LinearSegmentedColormap
+* from IPython.display import display
+* import warnings
+* warnings.filterwarnings('ignore')
